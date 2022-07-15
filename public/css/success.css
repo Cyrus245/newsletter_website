@@ -1,0 +1,15 @@
+body {
+
+    background-image: url("https://images.pexels.com/photos/725255/pexels-photo-725255.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size: 1300px 800px;
+
+    background-repeat: no-repeat;
+}
+
+.jmb {
+
+    background-color: #1B2430;
+    color: white;
+    text-align: center;
+
+}
