@@ -1,9 +1,9 @@
 body {
 
     background-image: url("https://images.pexels.com/photos/725255/pexels-photo-725255.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
-    background-size: 1300px 800px;
-
+    background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 .jmb {
@@ -12,4 +12,11 @@ body {
     color: white;
     text-align: center;
 
+}
+
+
+html {
+
+
+    height: 100%;
 }
